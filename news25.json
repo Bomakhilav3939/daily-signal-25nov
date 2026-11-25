@@ -1,0 +1,384 @@
+{
+  "kicker": "ONE DAY OF WORLD NEWS",
+  "meta": "34 DATED STORIES · 7 REGIONS · 13 DRAWN · TUESDAY 24 NOVEMBER 2026",
+  "date": "Tuesday 24 November 2026",
+  "deck": "Mines set three tankers ablaze in Hormuz — Asian markets roar back as Huang returns — Russia fires 96 drones at Ukraine",
+  "regions": [
+    [
+      "EUROPE",
+      9
+    ],
+    [
+      "MIDDLE EAST",
+      5
+    ],
+    [
+      "ASIA",
+      6
+    ],
+    [
+      "AFRICA",
+      3
+    ],
+    [
+      "OCEANIA",
+      3
+    ],
+    [
+      "AMERICAS",
+      7
+    ],
+    [
+      "WORLD",
+      1
+    ]
+  ],
+  "utc": [
+    [
+      "07:17",
+      "NEPAL",
+      "M5.6 quake near the Tibet border"
+    ],
+    [
+      "07:52",
+      "ULLEUNG",
+      "Korean air-raid alert, 3 minutes"
+    ],
+    [
+      "08:00",
+      "KYIV",
+      "73 Russian drones downed or jammed"
+    ],
+    [
+      "14:53",
+      "WORLDWIDE",
+      "Supermoon full, first of its kind"
+    ],
+    [
+      "CLOSING",
+      "ASIAN MARKETS",
+      "Taiex +9.0% · Kospi 5,000 · Nikkei +4%"
+    ]
+  ],
+  "numbers": [
+    [
+      "96",
+      "RUSSIAN DRONES AT UKRAINE"
+    ],
+    [
+      "3",
+      "TANKERS ABLAZE IN HORMUZ"
+    ],
+    [
+      "+9.0%",
+      "TAIEX CLOSE, ROAR-BACK"
+    ],
+    [
+      "5,000",
+      "KOSPI CLOSES, +7%"
+    ],
+    [
+      "1,283",
+      "MIGRANTS MOVED, EU PACT"
+    ],
+    [
+      "M5.6",
+      "NEPAL QUAKE, NO DEATHS"
+    ]
+  ],
+  "leads": [
+    {
+      "n": 1,
+      "place": "STRAIT OF HORMUZ",
+      "region": "MIDDLE EAST",
+      "tag": "CLAIM",
+      "source": "IRGC NAVY · QATARI PM",
+      "art": "tanker",
+      "headline": "MINES SET THREE TANKERS ABLAZE IN HORMUZ",
+      "deck": "IRGC Navy says two ships hit mines in the eastern strait, US air cover failed; Qatar's PM urges no further escalation.",
+      "pin": [
+        47,
+        9
+      ]
+    },
+    {
+      "n": 2,
+      "place": "ASIAN MARKETS",
+      "region": "ASIA",
+      "tag": "CONFIRMED",
+      "source": "TSE · KSE · NIKKEI AVES",
+      "art": "market",
+      "headline": "ASIAN MARKETS ROAR BACK AS HUANG RETURNS",
+      "deck": "Taiex closes up 9% after last week's AI rout; Kospi gains 7% to settle at 5,000; Nikkei adds 4%.",
+      "pin": [
+        53,
+        10
+      ]
+    },
+    {
+      "n": 3,
+      "place": "KYIV · ZAPORIZHZHIA",
+      "region": "EUROPE",
+      "tag": "REPORTED",
+      "source": "KYIV · RUSSIAN MINDEF",
+      "art": "drones",
+      "headline": "RUSSIA FIRES 96 DRONES AT UKRAINE",
+      "deck": "Kyiv says 73 downed or jammed by 08:00; a late strike tore open a five-storey block in Zaporizhzhia, two dead.",
+      "pin": [
+        35,
+        6
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "n": 4,
+      "place": "ULLEUNG · KOREA",
+      "region": "ASIA",
+      "tag": "OFFICIAL",
+      "source": "SEOUL",
+      "art": "radar",
+      "pin": [
+        51,
+        8
+      ],
+      "headline": "Russian jets trip Korean air-raid alert",
+      "deck": "F-15Ks scramble; the 07:52 alert on Ulleung lasted 3 minutes. No breach, Seoul says."
+    },
+    {
+      "n": 5,
+      "place": "JIUQUAN · CHINA",
+      "region": "ASIA",
+      "tag": "OFFICIAL",
+      "source": "CNSA",
+      "art": "rocket",
+      "pin": [
+        46,
+        7
+      ],
+      "headline": "Pakistan's first astronaut named",
+      "deck": "Muhammad Zeeshan Ali flies on Shenzhou-24 to Tiangong, launching Wednesday."
+    },
+    {
+      "n": 6,
+      "place": "CANBERRA · AUSTRALIA",
+      "region": "OCEANIA",
+      "tag": "OFFICIAL",
+      "source": "LABOR-GREENS",
+      "art": "scales",
+      "pin": [
+        54,
+        19
+      ],
+      "headline": "Australia deal: tech fines up to 5%",
+      "deck": "Digital duty of care ties fines to global revenue; users may sue."
+    },
+    {
+      "n": 7,
+      "place": "BOGOTÁ · COLOMBIA",
+      "region": "AMERICAS",
+      "tag": "REPORTED",
+      "source": "BOGOTÁ",
+      "art": "explosion",
+      "pin": [
+        17,
+        13
+      ],
+      "headline": "Car bomb wrecks Colombian state HQ",
+      "deck": "Blast late Monday at the Meta governor's office, a day before the peace deal turns 10."
+    },
+    {
+      "n": 8,
+      "place": "AL-MAWASI · GAZA",
+      "region": "MIDDLE EAST",
+      "tag": "CLAIM",
+      "source": "HOSPITAL SOURCE",
+      "art": "gaza",
+      "pin": [
+        53,
+        8
+      ],
+      "headline": "Drone strike kills 3 at Gaza police post",
+      "deck": "Israeli strike early Tuesday also wounds five, a hospital source says."
+    },
+    {
+      "n": 9,
+      "place": "SINGAPORE",
+      "region": "ASIA",
+      "tag": "OFFICIAL",
+      "source": "PM'S OFFICE",
+      "art": "chip",
+      "pin": [
+        47,
+        13
+      ],
+      "headline": "Singapore: no backdoor for US chips",
+      "deck": "Wong vows to uphold export rules after the US blacklists Megaspeed and six firms."
+    },
+    {
+      "n": 10,
+      "place": "EASTERN NEPAL",
+      "region": "ASIA",
+      "tag": "CONFIRMED",
+      "source": "USGS",
+      "art": "quake",
+      "pin": [
+        44,
+        9
+      ],
+      "headline": "Magnitude-5.6 quake jolts eastern Nepal",
+      "deck": "Hit near the Tibet border at 07:17; felt in India, Bhutan, Bangladesh. No deaths."
+    },
+    {
+      "n": 11,
+      "place": "BRUSSELS · EU",
+      "region": "EUROPE",
+      "tag": "CONFIRMED",
+      "source": "EU COMMISSION",
+      "art": "migrants",
+      "pin": [
+        31,
+        6
+      ],
+      "headline": "EU pact moves 1,283 migrants, not 30,000",
+      "deck": "First-year relocations fall far short of the plan; Hungary, Slovakia opt out."
+    },
+    {
+      "n": 12,
+      "place": "JOHANNESBURG · SOUTH AFRICA",
+      "region": "AFRICA",
+      "tag": "OFFICIAL",
+      "source": "SA WEATHER SERVICE",
+      "art": "flood",
+      "pin": [
+        46,
+        14
+      ],
+      "headline": "Johannesburg put on flood alert",
+      "deck": "Weather service warns of flash floods across Gauteng until Tuesday evening."
+    },
+    {
+      "n": 13,
+      "place": "WASHINGTON · NFL",
+      "region": "AMERICAS",
+      "tag": "CONFIRMED",
+      "source": "NFL",
+      "art": "football",
+      "pin": [
+        17,
+        7
+      ],
+      "headline": "Commanders stun Bengals 22-20",
+      "deck": "Stevens' 26-yard field goal as time expires settles Monday Night Football."
+    }
+  ],
+  "briefs": [
+    [
+      "KYIV",
+      "Western chips found in Russian drone, Kyiv says",
+      "EUROPE"
+    ],
+    [
+      "LONDON",
+      "Champions League: Arsenal 3-1 Atletico, matchday 5",
+      "EUROPE"
+    ],
+    [
+      "PARIS",
+      "Notre-Dame bells return after the 2019 fire",
+      "EUROPE"
+    ],
+    [
+      "VATICAN",
+      "Francis's private diary revealed, tells of seeing the devil",
+      "EUROPE"
+    ],
+    [
+      "TEHRAN",
+      "Iran sets 7 conditions before US talks, Ghalibaf",
+      "MIDDLE EAST"
+    ],
+    [
+      "GREECE",
+      "31,500 wounded troops treated, 62% psychological",
+      "EUROPE"
+    ],
+    [
+      "ZAMBIA",
+      "Nigeria road crash kills 15, 27 more hurt",
+      "AFRICA"
+    ],
+    [
+      "DAKAR",
+      "AFCON title ruling due today, Senegalese appeal",
+      "AFRICA"
+    ],
+    [
+      "TARONGA",
+      "Cyclone relief ship sails for Pukapuka, Nauru",
+      "OCEANIA"
+    ],
+    [
+      "PAGO PAGO",
+      "US leases seabed to miner, 31 leases",
+      "OCEANIA"
+    ],
+    [
+      "TEHRAN",
+      "Iran probes ship hijack, vessel seized",
+      "MIDDLE EAST"
+    ],
+    [
+      "NEW YORK",
+      "'Carême' wins Indie Emmy for best drama",
+      "AMERICAS"
+    ],
+    [
+      "BRASILIA",
+      "Budget package passes 353-128, late Monday",
+      "AMERICAS"
+    ],
+    [
+      "HANOI",
+      "WHO chief tours hospitals, day 3 of Asia tour",
+      "ASIA"
+    ],
+    [
+      "WORLDWIDE",
+      "Supermoon, full at 14:53 UTC, first of its kind",
+      "WORLD"
+    ],
+    [
+      "RIYADH",
+      "Houthi attack on financial-district tower injures 11",
+      "MIDDLE EAST"
+    ],
+    [
+      "WASHINGTON",
+      "Trump pardons turkeys Freedom and Feather",
+      "AMERICAS"
+    ],
+    [
+      "WASHINGTON",
+      "Treasury widens sanctions on 20+ Iranian firms",
+      "AMERICAS"
+    ],
+    [
+      "WARSAW",
+      "Poland: peace would not end Russian sabotage",
+      "EUROPE"
+    ],
+    [
+      "RIGA",
+      "Latvia sees tipping point in Ukraine war next year",
+      "EUROPE"
+    ],
+    [
+      "WASHINGTON",
+      "Huckabee doubts end of Israel aid by year's end",
+      "AMERICAS"
+    ]
+  ],
+  "date_check": "Every story happened, or was first reported, on Tuesday 24 November 2026 (times UTC where given). Held back as another day's news: the Bogotá blast landed late Monday · Shenzhou-24 lifts off Wednesday, crew named Tuesday · Monday Night Football was played Monday, US time.",
+  "footer": "Original drawings, no photographs · every story names its source or runs to wire · summing Tuesday 24 November 2026 from open reporting: AP · REUTERS · ANADOLU · AL JAZEERA · POLITICO · THE HINDU · USGS · CNSA"
+}
