@@ -1,30 +1,21 @@
 #!/usr/bin/env python3
-"""make.fun news-image-20261124 entrypoint.
+"""Entry program for the make.fun news-image-20261124 bounty.
 
-The digest image for Tuesday 24 November 2026 is rendered once by
-render_entry.py from news25.json (deterministic, offline, bundled fonts)
-and shipped here as entry.png. This entrypoint moves that image into the
-output directory using the standard library only, as the competition
-sandbox requires.
+Copies the committed, agent-rendered front page (entry.png) into the
+output directory. The image is produced once by render_entry.py from
+news25.json with the bundled fonts (deterministic, offline: two runs
+give byte-identical output). This entrypoint is stdlib only, no network.
 """
 import os
 import shutil
 
-BASE = os.path.dirname(os.path.abspath(__file__))
+SRC = os.path.join(os.path.dirname(os.path.abspath(__file__)), "entry.png")
+OUT = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 
-def main():
-    src = os.path.join(BASE, "entry.png")
-    out_dir = "/output"
-    if not os.path.isdir(out_dir):
-        try:
-            os.makedirs(out_dir)
-        except OSError:
-            out_dir = BASE
-    dst = os.path.join(out_dir, "entry.png")
-    if os.path.abspath(src) != os.path.abspath(dst):
-        shutil.copyfile(src, dst)
-    print(dst)
+def main() -> None:
+    os.makedirs(OUT, exist_ok=True)
+    shutil.copyfile(SRC, os.path.join(OUT, "entry.png"))
 
 
 if __name__ == "__main__":
